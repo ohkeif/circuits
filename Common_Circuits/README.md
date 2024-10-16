@@ -9,7 +9,7 @@ All shall be revealed in due time...
 And that time is now. It's a synth. I mean it was pretty obvious to be honest..if you think about it. It's not like the event was for farming equipment or something. Then it maybe I could let it slide that you thought this was some sort of sprinkler timer. Or a controller to a door that automatically opens at sunrise to let the chickens out. The event was like 90% music oriented. So you clearly already knew this. You are smart. Smaart and Kind. And are just patiently waiting for the instructions on how do make it do a thing. The thing you knew it could do all along. Deep in your heart. And for that, I applaud you. And wait shall you no more!  
 
 
-![CKACB](/images/cc_pcb.png)
+![CKACB](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/images/cc_pcb.png)
 ## But, I am not a Circuit Builder
 
 Do not worry youself with temporary concerns. And until you start on your learning journey, the CKACB will serve as a stylish keepsake of a truly memorable and life changing event for you. 
