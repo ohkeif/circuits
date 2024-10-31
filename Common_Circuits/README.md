@@ -55,7 +55,7 @@ Solder the IC socket with the correct orientation onto the board. Keep note of t
 
 
 ### IC and IC Socket
-![IC and IC Socket](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/images/dip-orientation.png)
+![IC and IC Socket](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/images/dip-orientation.jpg)
 
 Finally, obtain some spools of wire (20-24 gauge stranded core) and wire up the potentiometers, switches and power connections. To keep things organized, it may help to use green wire for ground connections, red wire for 9v connections, and yellow wire for audio connections. 
 
