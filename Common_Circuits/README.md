@@ -46,7 +46,7 @@ Looking at the capacitors, C1 is marked with "103", where C2 is marked with "104
 C3 is an electrolytic capacitor with a cylindrical shape. This capacitor is polarized, meaning it has a positive and negative side. Find the negative side with the white stripe and place it accordingly on the board. 
 
 ### Electrolytic Capacitor Polarity
-![Polar Caps](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/images/polar_caps.png)
+![Polar Caps](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/images/polar_caps)
 
 
 R1 and R2 are both 1k ohm resistors with the color code: Brown, Black, Red. R1 acts as a current limiter for the LED. R2 and the Frequency potentiometer controls the frequency of the audio oscillator. R3 and R4 along with the 10uf electrolytic capacitor form a low-pass filter that cut's high end artifacts from the audio output. Pulse Width controls the output pulse duration of the monostable multivibrator. And it is possible to add a mono jack onto pin 5 of each 555 chip to enable CV (control voltage) inputs for both controls.
