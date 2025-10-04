@@ -9,7 +9,7 @@ All shall be revealed in due time...
 And that time is now. It's a synth. I mean it was pretty obvious to be honest..if you think about it. It's not like the event was for farming equipment or something. Then it maybe I could let it slide that you thought this was some sort of sprinkler timer. Or a controller to a door that automatically opens at sunrise to let the chickens out. The event was like 90% music oriented. You clearly already knew this. You are smart. Smart and Kind. And are just patiently waiting for the instructions on how do make it do a thing. The thing you knew it could do all along. Deep in your heart. And for that, I applaud you. And wait shall you no more!  
 
 
-![CKACB](https://github.com/ohkeif/circuits/tree/main/Common_Circuits/Atari_Punk_Console_2024/images/cc_pcb.png)
+![CKACB](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Atari_Punk_Console_2024/images/cc_pcb.png)
 ## But, I am not a Circuit Builder
 
 Do not worry yourself with temporary concerns. And until you start on your learning journey, the CKACB will serve as a stylish keepsake of a truly memorable and life changing event for you. 
@@ -46,7 +46,7 @@ Looking at the capacitors, C1 is marked with "103", where C2 is marked with "104
 C3 is an electrolytic capacitor with a cylindrical shape. This capacitor is polarized, meaning it has a positive and negative side. Find the negative side with the white stripe and place it accordingly on the board. 
 
 ### Electrolytic Capacitor Polarity
-![Polar Caps](https://github.com/ohkeif/circuits/tree/main/Common_Circuits/Atari_Punk_Console_2024/images/polar_caps.png)
+![Polar Caps](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Atari_Punk_Console_2024/images/polar_caps.png)
 
 
 R1 and R2 are both 1k ohm resistors with the color code: Brown, Black, Red. R1 acts as a current limiter for the LED. R2 and the Frequency potentiometer controls the frequency of the audio oscillator. R3 and R4 along with the 10uf electrolytic capacitor form a low-pass filter that cut's high end artifacts from the audio output. Pulse Width controls the output pulse duration of the monostable multivibrator. And it is possible to add a mono jack onto pin 5 of each 555 chip to enable CV (control voltage) inputs for both controls.
@@ -55,7 +55,7 @@ Solder the IC socket with the correct orientation onto the board. Keep note of t
 
 
 ### IC and IC Socket
-![IC and IC Socket](https://github.com/ohkeif/circuits/tree/main/Common_Circuits/Atari_Punk_Console_2024/images/dip-orientation.jpg)
+![IC and IC Socket](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Atari_Punk_Console_2024/images/dip-orientation.jpg)
 
 Finally, obtain some spools of wire (20-24 gauge stranded core) and wire up the potentiometers, switches and power connections. To keep things organized, it may help to use green wire for ground connections, red wire for 9v connections, and yellow wire for audio connections. 
 
@@ -64,4 +64,4 @@ Now you can tape down all the components and flip over the board to solder every
 
 
 ### Schematic
-![schematic](https://github.com/ohkeif/circuits/tree/main/Common_Circuits/Atari_Punk_Console_2024/images/schematic.png)
+![schematic](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Atari_Punk_Console_2024/images/schematic.png)
