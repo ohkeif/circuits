@@ -51,4 +51,4 @@ This board uses electrolytic capacitors - the ones with a cylindrical shape. The
 
 
 ### Schematic
-![schematic](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Quad_Drone_2025/Quad_Drone/images/schematic.tiff)
+![schematic](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Quad_Drone_2025/Quad_Drone/images/schematic.png)
