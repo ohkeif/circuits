@@ -45,7 +45,7 @@ Once all components are placed on the board, tape down (or otherwise secure) all
 ### Electrolytic Capacitor Polarity
 This board uses electrolytic capacitors - the ones with a cylindrical shape. These capacitors are polarized, meaning they have a positive and negative side. The negative is identifiable from the white stripe along one side. This stripe should line up with the white markings on the PCB silkscreen. 
 
-![Polar Caps](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/images/polar_caps.png)
+![Polar Caps](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Atari_Punk_Console_2024/images/polar_caps.png)
 
 
 
