@@ -5,7 +5,7 @@
 
 
 
-![CKACB](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/images/cc_pcb.png)
+![CKACB](https://github.com/ohkeif/circuits/blob/main/Common_Circuits/Quad_Drone_2025/Quad_Drone/images/pcb.png)
 ## But, I am not a Circuit Builder
 
 Do not worry yourself with temporary concerns. And until you start on your learning journey, the CKACB will serve as a stylish keepsake of a truly memorable and life changing event for you. 
@@ -15,25 +15,22 @@ Do not worry yourself with temporary concerns. And until you start on your learn
 
 | Qty              | Reference | Value |
 | :---------------- | :------: | ----: |
-| 1	|C1	             | 0.01uf|
-|1	|C2|	0.1uf|
-|1	|C3	|10uf|
-|1	|D1	|LED|
-|2	|FREQ, PULSEWIDTH|	1M|
-|1	|PWR	|DC IN|
+| 2	|C1, C2	             | 10uf|
+|1	|C3|	4.7uf|
+|1	|C4	|2.2uf|
+|4	|D1, D2, D3, D4	|LED|
+|4	|FREQ1-4|	10k Linear|
+|1	|PWR	|18v DC IN|
 |1	|OUT	|Audio Out
-|2	|R1, R2	|1K|
-|1	|R3	|10K|
-|1	|R4	|4.7K|
-|1	|SW2	|ON/OFF|
-|2	|U1, U2	|LM555|
-|1	|VOLUME	|5K|
+|4	|R1, R2, R3, R4	|1K|
+|4	|R5, R6, R7, R8	|100K|
+|4	|Q1, Q2, Q3, Q4	|2n3904|
+|4	|SW1, SW2, SW3, SW4	|SPST|
 
 
+## Quadruple Oscillators
 
-## Stepped Tone Generator
-
-This circuit is based off Forest Mims III Stepped Tone Generator circuit. It bleeps, bloops, and otherwise generates 8-bit console sounds. Sounds like high pitched zipping lasers and spacey distorted rocket arcade engine sounds. The circuit consists of two of the ubiquitous 8-pin DIP IC, the 555 timer, and an assortment of resistors and capacitors. In operation, the first timer is wired as an astable multivibrator that acts as a frequency oscillator. The second is set up as a monostable multivibrator that acts as the pulse width modulation of the firs timer. In other words, the oscillator (555 timer 1) drives the monostable (555 timer 2), which emits square output pulses with a duration controlled by the pulse width potentiometer. The resulting stepped tones almost sound like magic as they jump through lo-fi notes similar to chromatic rising and falling of keys on a keyboard.
+This circuit is based off the Look Mum No Computer simple oscillator circuit. It bleeps, bloops, and otherwise generates 8-bit console sounds. Sounds like high pitched zipping lasers and spacey distorted rocket arcade engine sounds. The circuit consists of two of the ubiquitous 8-pin DIP IC, the 555 timer, and an assortment of resistors and capacitors. In operation, the first timer is wired as an astable multivibrator that acts as a frequency oscillator. The second is set up as a monostable multivibrator that acts as the pulse width modulation of the firs timer. In other words, the oscillator (555 timer 1) drives the monostable (555 timer 2), which emits square output pulses with a duration controlled by the pulse width potentiometer. The resulting stepped tones almost sound like magic as they jump through lo-fi notes similar to chromatic rising and falling of keys on a keyboard.
 
 ## Assembly Instructions
 Organize all your components to match up with the BOM to ensure you have everything you need to get started! Begin placing all the components onto the top side of the board with their legs poking through to the other side. 
