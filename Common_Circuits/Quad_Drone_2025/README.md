@@ -36,6 +36,7 @@ Organize all your components to match up with the BOM to ensure you have everyth
 * R5-R8 are 100k ohm resistors (Brown, Black, Yellow). These act as a rudimentary mixer to avoid cross-talk of the 4 oscilators. 
 * Frequency controls are made from the interaction of the transistor operating in reverse avalanche mode. Each oscillator can be tuned using a 10k potentiometer and expermimenting with different values of LED/Capacitor/Transistor
 * SPST switches are used to toggle each oscillator on or off
+* 2n3904 - snip the middle leg off the transistor to ensure it proper function of the circuit and to properly fit the 2 hole pcb footprint
 
 
 Once all components are placed on the board, tape down (or otherwise secure) all the components and flip over the board to solder everything up! 
